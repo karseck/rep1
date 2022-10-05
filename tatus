@@ -1,0 +1,59 @@
+[33mcommit 1d8d11c8fed2f161f8f855d972a75039df640bf4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v0.7.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: karseck <karseckon@yandex.ru>
+Date:   Wed Oct 5 17:31:39 2022 +0200
+
+    AOE
+
+[33mcommit 89e34f1e4acd782bab5350ab86d489c1a0a4b3f1[m[33m ([m[1;33mtag: v0.6.0[m[33m)[m
+Merge: 6b62c2d c1f3c07
+Author: karseck <114993973+karseck@users.noreply.github.com>
+Date:   Wed Oct 5 16:39:52 2022 +0200
+
+    Merge pull request #2 from karseck/dva
+    
+    ya sdelal' 0.5v
+
+[33mcommit c1f3c0779eec1374654857505239eafc23daef5a[m[33m ([m[1;33mtag: v0.5.0[m[33m)[m
+Author: karseck <karseckon@yandex.ru>
+Date:   Wed Oct 5 16:36:33 2022 +0200
+
+    ya sdelal' 0.5v
+
+[33mcommit 6b62c2d1fbcc757fe9d3fe21fa8b4e5041ab97f6[m
+Merge: 3bf0f37 e66ccec
+Author: karseck <114993973+karseck@users.noreply.github.com>
+Date:   Wed Oct 5 16:30:23 2022 +0200
+
+    Merge pull request #1 from karseck/dva
+    
+    nu ok
+
+[33mcommit e66ccecc3ad839caac38ae59ecae7b1ea0b4afd1[m
+Author: karseck <karseckon@yandex.ru>
+Date:   Wed Oct 5 16:28:59 2022 +0200
+
+    0.4v
+
+[33mcommit 79958b1603bbf8ade2ae87934fa3afdd1f4a0ddc[m
+Author: karseck <karseckon@yandex.ru>
+Date:   Wed Oct 5 16:27:21 2022 +0200
+
+    0.3v
+
+[33mcommit 3bf0f3799c882440b488d68c348a46bf9dc34908[m
+Author: karseck <karseckon@yandex.ru>
+Date:   Wed Oct 5 16:25:51 2022 +0200
+
+    0.2v
+
+[33mcommit 4da1e7b5e253d76d88cccc29da618453e19e7a28[m
+Author: karseck <karseckon@yandex.ru>
+Date:   Wed Oct 5 16:12:11 2022 +0200
+
+    0.1 v
+
+[33mcommit 5b8cc2e774df3a930909d8d54376921c504cf76c[m
+Author: karseck <114993973+karseck@users.noreply.github.com>
+Date:   Wed Oct 5 16:08:54 2022 +0200
+
+    Initial commit
